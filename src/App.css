@@ -1,8 +1,0 @@
-html,body{
-  background-color: rgb(29, 29, 29);
-  height: max-content;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
